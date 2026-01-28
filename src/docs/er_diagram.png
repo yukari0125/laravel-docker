@@ -1,0 +1,13 @@
+
++-----------------------------+
+|         products            |
++-----------------------------+
+| PK id : bigint              |
+| name : varchar(255)         |
+| price : unsigned int        |
+| image_path : varchar(255)   |
+| season : varchar(255)       |
+| description : text          |
+| created_at : timestamp      |
+| updated_at : timestamp      |
++-----------------------------+
